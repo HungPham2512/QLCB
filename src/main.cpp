@@ -1,8 +1,8 @@
-#include "../header/canBo.h"
-#include "../header/congNhan.h"
-#include "../header/kySu.h"
-#include "../header/nhanVien.h"
-#include "../header/qlcb.h"
+#include "canBo.h"
+#include "congNhan.h"
+#include "kySu.h"
+#include "nhanVien.h"
+#include "qlcb.h"
 
 int main()
 {

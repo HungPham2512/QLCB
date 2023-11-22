@@ -1,4 +1,4 @@
-#include "../header/canBo.h"
+#include "canBo.h"
 
 
 	CanBo::CanBo(std::string hoTen, std::string gioiTinh, std::string diaChi, int tuoi)

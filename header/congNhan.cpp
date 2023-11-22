@@ -1,4 +1,4 @@
-#include "../header/congNhan.h"
+#include "congNhan.h"
 
 
 	CongNhan::CongNhan(std::string hoTen, std::string gioiTinh, std::string diaChi, int tuoi, int capBac)

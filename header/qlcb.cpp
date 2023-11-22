@@ -1,4 +1,4 @@
-#include "../header/qlcb.h"
+#include "qlcb.h"
 
 
 	bool timKiem = 0;

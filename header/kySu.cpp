@@ -1,4 +1,4 @@
-#include "../header/kySu.h"
+#include "kySu.h"
 
 
 	KySu::KySu(std::string hoTen, std::string gioiTinh, std::string diaChi, int tuoi, std::string nganhDaoTao)
